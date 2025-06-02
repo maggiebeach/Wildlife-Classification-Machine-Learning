@@ -1,0 +1,6 @@
+public
+venv
+/orinoquia_camera_traps.json
+
+# should avoid tracking changes/commiting to our 70 gb dataset
+orinoquia_dataset/
